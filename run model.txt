@@ -1,0 +1,4 @@
+cd C:\Users\msamadani\Google Drive\Self Driving Car\CarND- Behavioral Cloning
+activate tensorflow
+set "KERAS_BACKEND=tensorflow"
+python drive.py model.h5
